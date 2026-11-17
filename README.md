@@ -81,5 +81,4 @@ Sono uno sviluppatore appassionato di tecnologia con esperienza nello sviluppo m
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WallyTheWizard81&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WallyTheWizard81&theme=tokyonight" alt="Top Languages" height="165" />
 </p>
