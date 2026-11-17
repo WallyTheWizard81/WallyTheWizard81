@@ -1,11 +1,85 @@
-<h1 align="center">Hi 👋, I'm Walter</h1>
-<h3 align="center">A developer from Italy</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/walter-tresoldi-17657016b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walter-tresoldi-17657016b" height="30" width="40" /></a>
-<a href="https://fb.com/wally81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wally81" height="30" width="40" /></a>
+<!-- Banner animato con effetto Typing -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00A8E8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Walter!;Software+Developer+from+Italy+%F0%9F%87%AE%F0%9F%87%B9;Building+Mobile%2C+Desktop+%26+Backend+Apps" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+---
+
+### 👨‍💻 About Me
+Sono uno sviluppatore appassionato di tecnologia con esperienza nello sviluppo mobile, desktop e backend. Mi piace creare soluzioni solide e scalabili, spaziando dal mondo .NET/C# fino allo sviluppo nativo su Android.
+
+- 🌍 **Location:** Italy 🇮🇹
+- 🔭 **Focus:** Software Development, Backend & Mobile
+
+---
+
+### 🌐 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/walter-tresoldi-17657016b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://fb.com/wally81" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages, Frameworks & Tools
+
+**Languages**
+<p align="left">
+  <a href="https://www.w3schools.com/cs/" target="_blank">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  </a>
+</p>
+
+**Frameworks & Platforms**
+<p align="left">
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  </a>
+  <a href="https://developer.android.com" target="_blank">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  </a>
+</p>
+
+**Databases**
+<p align="left">
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MSSQL" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
+</p>
+
+**Tools & Design**
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </a>
+  <a href="https://postman.com" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank">
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WallyTheWizard81B&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallyTheWizard81&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
